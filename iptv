@@ -1,0 +1,195 @@
+#EXTM3U
+#EXTINF:-1,FOX TV SD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b564000.m3u8
+#EXTINF:-1,TRT 1 HD
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT 1 SD
+https://tv-trt1.live.trt.com.tr/master_360.m3u8
+#EXTINF:-1,TRT 1 FHD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/12093
+#EXTINF:-1,ATV HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/26
+#EXTINF:-1,ATV SD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/97
+#EXTINF:-1,ATV FHD
+http://streams2.livetv.az/turk/atv_turk_sd/playlist.m3u8
+#EXTINF:-1,SHOW TV HD
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,SHOW TV SD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/61
+#EXTINF:-1,SHOW TV FHD
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,KANAL D HD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,KANAL D SD
+http://streams2.livetv.az/turk/kanald_stream/playlist.m3u8
+#EXTINF:-1,KANAL D FHD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,STAR TV HD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,STAR TV SD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1,STAR TV FHD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,FOX TV HD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,FOX TV FHD
+http://streams.livetv.az/turk/fox_stream_sd/playlist.m3u8
+#EXTINF:-1,TV8 HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/19
+#EXTINF:-1,TV8 SD
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b564000.m3u8
+#EXTINF:-1,TV8 FHD
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,TV8.5 HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/3388
+#EXTINF:-1,KANAL 7 HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/10987
+#EXTINF:-1,BEYAZ TV HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/95
+#EXTINF:-1,HALK TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/82
+#EXTINF:-1,ULUSAL TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/51
+#EXTINF:-1,TELE 1
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/6025
+#EXTINF:-1,ULKE TV HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/52
+#EXTINF:-1,A2 HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/6129
+#EXTINF:-1,360 TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/3391
+#EXTINF:-1,TEVE2
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_hd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1,YOL TV
+http://stream.yol.tv:9485/medialive/yol.m3u8
+#EXTINF:-1,TRT 2 HD
+https://tv-trt2.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT HABER HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/20
+#EXTINF:-1,TRT HABER SD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/11862
+#EXTINF:-1,CNN TURK SD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/15556
+#EXTINF:-1,CNN TURK HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/91
+#EXTINF:-1,HABERTURK SD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/15557
+#EXTINF:-1,HABERTURK HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/84
+#EXTINF:-1,NTV HD
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,A HABER HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/102
+#EXTINF:-1,TGRT HABER
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/56
+#EXTINF:-1,24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
+#EXTINF:-1,TRT 3 - TBMM TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/4655
+#EXTINF:-1,BLOOMBERG HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/4844
+#EXTINF:-1,FINANS TURK TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/6037
+#EXTINF:-1,AL JAZEERA NEWS ENGLISH
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/6510
+#EXTINF:-1,TVNET
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/6717
+#EXTINF:-1,TRT SPOR HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/47
+#EXTINF:-1,TRT SPOR SD
+https://tv-trtspor1.live.trt.com.tr/master_360.m3u8
+#EXTINF:-1,TRT SPOR 2 HD
+https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,ASPOR SD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/15541
+#EXTINF:-1,A SPOR HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/101
+#EXTINF:-1,SPORT TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/5488
+#EXTINF:-1,FANATIK TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/4714
+#EXTINF:-1,TJK TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/55
+#EXTINF:-1,TRT BELGESEL HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/3476
+#EXTINF:-1,TGRT BELGESEL
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/chunklist_w1644874314.m3u8
+#EXTINF:-1,ZIRAAT TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/3478
+#EXTINF:-1,DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1828000_sltur.m3u8
+#EXTINF:-1,TLC HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/5181
+#EXTINF:-1,AV TV HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/6807
+#EXTINF:-1,TRT AVAZ
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/4654
+#EXTINF:-1,TRT TURK HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/6499
+#EXTINF:-1,TRT WORLD HD
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/6500
+#EXTINF:-1,KON TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/6313
+#EXTINF:-1,KANAL URFA
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/5391
+#EXTINF:-1,KANAL 23
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/6180
+#EXTINF:-1,KANAL FIRAT
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/13166
+#EXTINF:-1,DRT DENIZLI
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/5360
+#EXTINF:-1,MERKEZ TV
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklist_w1585059352_b664000_sltur.m3u8
+#EXTINF:-1,BURSA TV
+https://win1.yayin.com.tr/bursatv/bursatv/chunklist_w453158305.m3u8
+#EXTINF:-1,EDIRNE TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/4600
+#EXTINF:-1,KOROGLU TV
+http://stream.taksimbilisim.com:1935/koroglutv/smil:koroglutv.smil/playlist.m3u8
+#EXTINF:-1,BURSA KANAL 16
+http://www.kanal16haber.com:4343/hls/canli1.m3u8
+#EXTINF:-1,CAY TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/chunklist_w1172854629.m3u8
+#EXTINF:-1,ICEL TV
+http://stream.taksimbilisim.com:1935/iceltv/bant1/iptvdelisi.m3u8
+#EXTINF:-1,KANAL BEN
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/77
+#EXTINF:-1,DUGUN TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/3428
+#EXTINF:-1,ONCU TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/4603
+#EXTINF:-1,BR TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/4605
+#EXTINF:-1,ARAS TV
+https://59cba4d34b678.streamlock.net/canlitv/arastv/chunklist_w1029014061.m3u8
+#EXTINF:-1,UCANKUS TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/5386
+#EXTINF:-1,AKSU TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/5387
+#EXTINF:-1,ALTAS TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/5388
+#EXTINF:-1,DEHA TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/5389
+#EXTINF:-1,CANAKKALE TON TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/5393
+#EXTINF:-1,MELTEM TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/6396
+#EXTINF:-1,VUSLAT TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/6626
+#EXTINF:-1,AKIT TV HD
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1,WOMAN TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/6680
+#EXTINF:-1,HABERAKS TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/12062
+#EXTINF:-1,SRT TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/14761
+#EXTINF:-1,VIYANA TV
+http://nrttn172.kesintisizyayin.com:1935/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1,MAVI KARADENIZ TV
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/15522
+#EXTINF:-1,VIZYON 58
+https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
+#EXTINF:-1,TRT ARAPCA
+http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/4624
