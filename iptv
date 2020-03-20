@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,FOX TV SD
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b564000.m3u8
+#EXTINF:-1,FOX TV xxx
+http://viptest102.com:8080/PviFdj5P2T/905388919641/200
 #EXTINF:-1,TRT 1 HD
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT 1 SD
@@ -191,5 +193,3 @@ http://nrttn172.kesintisizyayin.com:1935/nrttn/nrttn/playlist.m3u8
 http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/15522
 #EXTINF:-1,VIZYON 58
 https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
-#EXTINF:-1,TRT ARAPCA
-http://dreamstariptv.com:8080/1Zo3wbrrJ0/4qwmALSYnj/4624
