@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,FOX TV SD
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b564000.m3u8
-#EXTINF:-1,FOX TV xxx
-http://viptest102.com:8080/PviFdj5P2T/905388919641/200
 
 #EXTINF:-1, HABERTURK HD
 http://bdmsat.com:25461/live/murat34/murat34/6297.m3
