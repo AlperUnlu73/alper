@@ -38,6 +38,18 @@ https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/chunklist_b2064000.m3u8
 http://streams.livetv.az/turk/fox_stream_sd/playlist.m3u8
 #EXTINF:-1,TV8 FHD
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,KRAL POP
+http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1, TRT1
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT2
+https://tv-trt2.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT HABER
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT MUZIK
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+#EXTINF:-1,UCANKUS
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 
 #EXTINF:-1,MERKEZ TV
 http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklist_w1585059352_b664000_sltur.m3u8
